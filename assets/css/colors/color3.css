@@ -1,0 +1,226 @@
+a {
+  color: #3dace1;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+ 
+a:hover {
+  color: #3dace1;
+}
+ 
+.section-title-devider {
+    color: #3dace1;
+}
+
+.text-color {
+  color: #3dace1!important;
+}
+
+.hero-boder-subtitle i {
+  color: #3dace1;
+}
+ 
+.btn-alpha-1 {
+    background-color: #3dace1;
+}
+ 
+.btn-alpha-1:hover, .btn-alpha-1:focus {
+    background-color: #3dace1;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #3dace1;
+}
+
+.navbar-default .navbar-nav>li>a:focus {
+  color: #3dace1;
+}
+
+.navbar-default .navbar-nav>li>a.nav-active {
+  color: #3dace1;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #3dace1;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+  color: #3dace1;
+}
+ 
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #3dace1;
+}
+
+.icon-tab .nav-pills>li.active>a, .icon-tab .nav-pills>li.active>a:focus, .icon-tab .nav-pills>li.active>a:hover {
+  background: #3dace1;
+}
+
+.eventup-tab-button.is-active span {
+  color: #3dace1;
+}
+
+.tab-devider {
+  background: #3dace1;
+}
+
+.cbp-caption-activeWrap {
+  background-color: #3dace1;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  background: #3dace1;
+}
+
+.price-title {
+  color: #3dace1;
+}
+
+.hot-price {
+  color: #3dace1;
+}
+
+.features-price {
+  border: 1px solid #3dace1;
+}
+
+.hot-label {
+  background: #3dace1;
+}
+
+.testimonial-info .name {
+  color: #3dace1;
+}
+
+.counter-icon span {
+  background: #3dace1;
+}
+
+.blog-post-wrapper {
+  border-bottom: 3px solid #3dace1;
+}
+
+.blog-post-wrapper .post-thumbnail .posted-date {
+  background: #3dace1;
+}
+
+.blog-post-wrapper .entry-title a:hover {
+  color: #3dace1;
+}
+
+.blog-post-wrapper .entry-header .entry-meta li a:hover {
+  color: #3dace1
+}
+
+.blog-post-wrapper .entry-footer a:hover {
+  color: #fff;
+  background: #3dace1
+}
+
+.blog-post-wrapper .play-trigger {
+  color: #3dace1;
+}
+
+.blog-post-wrapper .play-trigger:hover {
+  background: #3dace1
+}
+
+.blog-pagination .pagination>li>a:hover, .pagination>li>span:hover {
+  background: #3dace1;
+}
+
+.blog-pagination .pagination>li>a.active {
+  background: #3dace1;
+}
+
+.single-entry-post ul li:before {
+  background-color: #3dace1;
+}
+
+.single-entry-post blockquote {
+  border-left: 5px solid #3dace1;
+}
+
+#mc-form .label-text.error {
+    color: #3dace1!important;
+}
+ 
+.map-address {
+  background-color: #3dace1;
+}
+
+.footer-widget strong {
+  color: #3dace1;
+}
+
+.accordionOne .panel .panel-heading a {
+  background: #3dace1;
+}
+
+.accordionTow .panel .panel-heading a {
+  background: #3dace1;
+}
+
+.accordionTow .panel-group .panel-heading+.panel-collapse>.panel-body {
+  background: #3dace1;
+}
+
+.counter-2 {
+  background: #3dace1;
+}
+
+.teamtwo .team-member .social-link li a,
+.team-three .social-link li a {
+  background: #3dace1;
+}
+
+.teamtwo .team-member .social-link li a:hover,
+.team-three .social-link li a:hover {
+  color: #3dace1;
+  border: 1px solid #3dace1;
+}
+
+.teamtwo .team-member .title {
+    color: #3dace1;
+}
+
+.pricetwo .pt-color2 {
+  background: #3dace1;
+}
+
+.pricetwo .hot-price {
+  color: #3dace1;
+}
+
+.pricetwo .features-price {
+  border: 1px solid #3dace1;
+}
+
+.pricetwo .hot-label {
+  background: #3dace1;
+}
+
+.price-alpha-1 {
+    color: #3dace1;
+}
+
+.widget .media-heading a:hover {
+  color: #3dace1;
+}
+
+span.post-date {
+    font-size: 12px;
+    color: #3dace1;
+}
+ 
+.cbp::after, .cbp-lazyload::after, .cbp-popup-loadingBox::after, .cbp-popup-singlePageInline::after {
+    border-top: 3px solid #3dace1;
+}
+
+.nav-menu > li.nav-active > a {
+    color: #3dace1;
+}
+
+.nav-menu > li.nav-active > a .submenu-indicator-chevron {
+    border-color: transparent #3dace1 #3dace1 transparent;
+}

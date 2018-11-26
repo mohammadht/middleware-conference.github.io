@@ -1,0 +1,233 @@
+@media (max-width: 1440px) {
+
+}
+
+@media (max-width: 1024px) {
+  .ab-person-image {
+    margin-top: 64px;
+}
+}
+
+@media (max-width: 991px) {
+  .ab-person-image {
+    display: none;
+  }
+
+  .about-section .section-padding {
+    padding-bottom: 100px;
+  }
+
+  .tab-image {
+    margin-top: 40px;
+  }
+
+  .single-pricing {
+      margin-bottom: 40px;
+  }
+
+  .blog-post-wrapper {
+    margin-bottom: 24px;
+  }
+  
+  .map-address {
+    display: block; 
+    overflow: hidden;
+    transform: none;
+    position: initial;
+    top: 0;
+    right: 0;
+    background-color: #fe4918;
+    z-index: 100;
+    padding: 50px 70px;
+  }
+
+  #module-maps {
+      position: relative;
+      height: 920px;
+      width: 100%;
+  }
+
+  .price-three {
+    margin-bottom: 24px;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .explore-section .tab-pane {
+    text-align: center;
+  }
+
+  .tab-devider {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .tab-image {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #sponsors-section img {
+    margin-top: 20px;
+  }
+
+  .cbp-l-grid-mosaic .cbp-caption-activeWrap {
+    background-color: #fe4918;
+    background-color: rgb(254, 73, 24);
+  }
+
+  .footer-widget {
+    margin-bottom: 30px;
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #fff;
+    background-color: transparent;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+  }
+  
+  #clockdiv div > span {
+      padding: 20px 45px;
+      font-size: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-pills>li {
+      float: none;
+      display: inline-block;
+  }
+
+  .nav-tabs.nav-justified>li>a {
+    margin-bottom: 0;
+  }
+
+  .table-responsive {
+    margin-bottom: 0;
+  }
+
+  .nav li.cross-schedule-tab a {
+    padding: 5px 15px;
+  }
+ 
+  .cross-schedule-tab a {
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  .cross-schedule-tab a span {
+    font-size: 12px;
+  }
+
+  .form-inline .subcription-form {
+    width: 80%;
+    display: block;
+    margin: auto;
+  }
+
+  button.subcription-btn {
+    width: 150px;
+    margin-left: 0px;
+    display: block;
+    position: relative;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+  }
+
+  #clockdiv div > span {
+      padding: 20px 45px;
+      font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .pull-left,
+  .pull-right {
+    float: none!important;
+  }
+
+  .about-image {
+    padding-top: 0;
+  }
+
+  .button-container .btn {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .button-container .btn.mr-left-10 {
+    margin-left: 0;
+  }
+
+  .about-title {
+      font-size: 25px;
+      line-height: 35px;
+  }
+
+   #module-maps {
+    position: relative;
+    height: 1180px;
+    width: 100%;
+  }
+
+  .accordionOne .panel-group,
+  .accordionTow .panel-group {
+    margin-bottom: 30px;
+  }
+
+  .media-object {
+    display: block;
+    margin: auto;
+  }
+  .media-body, .media-left, .media-right {
+      display: block;
+      vertical-align: top;
+  }
+   
+  .media-body {
+      width: auto;
+      text-align: center;
+  }
+
+  .widget .media-body {
+      text-align: left;
+  }
+
+  .teamtwo .team-member .social-link li {
+      display: inline-block;
+      margin-right: 5px;
+      margin-left: 5px;
+  }
+  .media-left .img-circle {
+      vertical-align: middle;
+      margin: auto;
+      display: block;
+  }
+  .comment-meta.text-right {
+    text-align: center;
+    margin-top: 15px;
+  }
+
+
+  #clockdiv div > span {
+    padding: 20px 10px;
+    font-size: 35px;
+}
+
+}
+
+@media screen and (max-width: 320px) {
+ #module-maps {
+    position: relative;
+    height: 1180px;
+    width: 100%;
+}
+
+
+}
